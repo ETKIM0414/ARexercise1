@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.filament:filament-utils-android:1.17.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1929a0ff58dfbf12c9db9c5069574482/transformed/filament-utils-android-1.17.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1929a0ff58dfbf12c9db9c5069574482/transformed/filament-utils-android-1.17.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1929a0ff58dfbf12c9db9c5069574482/transformed/filament-utils-android-1.17.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.filament/filament-utils-android/1.17.0/b57c8131fef5e97b14719cb433b33a3a4ced6047/filament-utils-android-1.17.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.filament/filament-utils-android/1.17.0/c7b2337f1f23c5308e6a6d32336900f0c59f1e7b/filament-utils-android-1.17.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

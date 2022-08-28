@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.filament:gltfio-android:1.17.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f6455337b8573b1ec9e618d8446fa5c2/transformed/gltfio-android-1.17.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f6455337b8573b1ec9e618d8446fa5c2/transformed/gltfio-android-1.17.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f6455337b8573b1ec9e618d8446fa5c2/transformed/gltfio-android-1.17.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.filament/gltfio-android/1.17.0/6853d8068d7fc35c2a4a8a3a0baac4f504435ec6/gltfio-android-1.17.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.filament/gltfio-android/1.17.0/caaa05fe1ff6a58004f14a6d3b6e3da85fcfe76d/gltfio-android-1.17.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
